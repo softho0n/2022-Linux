@@ -14,6 +14,6 @@
 * [Concurrent Programming](https://github.com/softho0n/2022-Linux/blob/main/w10_client.c)
 * [Synchronization](https://github.com/softho0n/2022-Linux/blob/main/w11_sync.c)
 ### Personal Assignment
-* [PA1 - Using File I/O System call]
-* [PA2 - Mini shell]
-* [PA3 - Sockets & Mutex]
+* [PA1 - Using File I/O System call](https://github.com/softho0n/2022-Linux/blob/main/PA1/main.c)
+* [PA2 - Mini shell](https://github.com/softho0n/2022-Linux/blob/main/PA2/main.c)
+* [PA3 - Sockets & Mutex](https://github.com/softho0n/2022-Linux/tree/main/PA3)
